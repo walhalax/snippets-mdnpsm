@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walhalax.github.io/snippets-mdnpsm/sitemap.xml
